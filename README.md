@@ -1,2 +1,5 @@
 # ActorX-3dsMax-Plugin
-ActorX plugin which supports import-export multiple PSA files for 3ds Max
+
+Original [ActorX Importer plugin for 3ds Max](https://www.gildor.org/projects/unactorx) does not support importing or exporting of multiple PSA files.
+
+This project is extending original plugin to support import-export multiple PSA files for 3ds Max.
